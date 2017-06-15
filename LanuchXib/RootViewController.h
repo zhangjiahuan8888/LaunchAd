@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RootViewController.h
 //  LanuchXib
 //
 //  Created by xiaozuan on 2017/6/13.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RootViewController : UIViewController
 
 @end
-
